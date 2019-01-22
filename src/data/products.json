@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Pano de limpeza Bolero",
+      "description": "pano de limpeza amarelinho",
+      "unity": "pacote com 02 unidades",
+      "image": "Multiuso Bolero pc 2 und.jpg",
+      "price": 4.05
+    },
+    {
+      "id": 2,
+      "name": "Rolo de pano Tic Tac",
+      "description": "Rolo de pano multiuso tic tac com 23 panos.",
+      "unity": "rolo com 23 panos",
+      "image": "Multiuso rolo 23 panos.jpg",
+      "price": 6.05
+    },
+    {
+      "id": 3,
+      "name": "Saco limpebem",
+      "description": "Pano alvejado 40cm x 70 cm reforcado.",
+      "unity": "unidade",
+      "image": "Saco Limpebem.jpg",
+      "price": 4.05
+    },
+    {
+      "id": 4,
+      "name": "Sacos Xadrez",
+      "description": "Sacos Xadrez M L X.",
+      "unity": "unidade",
+      "image": "Sacos M L X.jpg",
+      "price": 5.05
+    },
+    {
+      "id": 5,
+      "name": "pano de copa com barrado",
+      "description": "Pano de copa branco com barra colorida 40 x 70 .",
+      "unity": "unidade",
+      "image": "Pano de Copa Barra.jpg",
+      "price": 6.05
+    },
+    {
+      "id": 6,
+      "name": "pano Tic Tac Brasileirinho com 3 unidades",
+      "description": "Pano Tic Tac brasileirinho .",
+      "unity": "pacote com 02 unidades",
+      "image": "TIC TAC Brasileirinho pc 3 und.jpg",
+      "price": 7.25
+    }
+  ]
+}
